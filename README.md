@@ -6,4 +6,4 @@ Teknologi yang dipakai untuk web ini adalah:
 - Articulate StoryLine 3
 
 ## Demo Website:
-Source Code ini sudah dilengkapi dengan online hosting yang menggunakan [Github Pages](https://auroraleafa.github.io/InteractiveLearn-Tech).
+Source Code ini sudah dilengkapi dengan online hosting yang menggunakan Github Pages. [Coba Demo Disini!](https://auroraleafa.github.io/InteractiveLearn-Tech).
