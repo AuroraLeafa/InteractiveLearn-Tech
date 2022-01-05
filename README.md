@@ -1,5 +1,5 @@
 # InteractiveLearn-Tech
-###Multimedia Interaktif ini merupakan Hasil Tugas Akhir dari mata kuliah Multimedia & Desain Grafis
+### Multimedia Interaktif ini merupakan Hasil Tugas Akhir dari mata kuliah Multimedia & Desain Grafis
 
 Teknologi yang dipakai untuk web ini adalah:
 - HTML5, JS, CSS
